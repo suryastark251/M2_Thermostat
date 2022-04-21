@@ -1,4 +1,4 @@
-# M2_Embedded_HeatControlSystem
+# M2_Thermostat
 
 |**Folder**|**Description**|
 | :- | :- |
