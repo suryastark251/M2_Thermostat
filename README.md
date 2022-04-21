@@ -9,7 +9,6 @@
 |5_Simulation|SimulIDE Simaulation FIle|
 |6_Images and Videos|Images, GIFS related to Outputs|
 
-[![cppcheck-action](https://github.com/AkhilPulicheri/M2_Thermostat/actions/workflows/main.yml/badge.svg)](https://github.com/AkhilPulicheri/M2_Thermostat/actions/workflows/main.yml)
 
 
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/904e30185b39415d8d50ae0537196d9c)
