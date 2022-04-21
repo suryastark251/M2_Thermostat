@@ -1,11 +1,10 @@
+
 /**
- * @file TemperatureSensorADC.c
- * @author Akhil Pulicheri
- * @brief A program for Heat control system.
- * @version 0.1
- * @date 2021-12-01
+ * @author SURYA NARAYANAN S
+ * @brief A program for Thermostat.
+ * @date 2022-04-21
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include <avr/io.h>
