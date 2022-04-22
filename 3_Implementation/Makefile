@@ -1,4 +1,4 @@
-PROJ_NAME = Activities
+PROJECJ_NAME = Thermostat
 
 BUILD_DIR = Build
 
