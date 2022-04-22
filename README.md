@@ -3,7 +3,7 @@
 
 ## Badges
 
-* Codacy - Static Analysis
+* Codacy - Static Analysis [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21a7813e5a964050bb693571b926ce5a)](https://www.codacy.com/gh/suryastark251/M2_Thermostat/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=suryastark251/M2_Thermostat&amp;utm_campaign=Badge_Grade)
 
 
 ## CppCheck
