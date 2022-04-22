@@ -9,4 +9,4 @@
 ## CppCheck
 [![Cpp-Check](https://github.com/suryastark251/M2_Thermostat/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/suryastark251/M2_Thermostat/actions/workflows/c-cpp.yml)
 
-[![Analysis](https://github.com/suryastark251/M2_Thermostat/actions/workflows/Analysis.yml/badge.svg)](https://github.com/suryastark251/M2_Thermostat/actions/workflows/Analysis.yml
+[![Analysis](https://github.com/suryastark251/M2_Thermostat/actions/workflows/Analysis.yml/badge.svg)](https://github.com/suryastark251/M2_Thermostat/actions/workflows/Analysis.yml)
